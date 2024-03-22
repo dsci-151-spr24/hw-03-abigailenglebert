@@ -1,6 +1,7 @@
 ---
 title: "HW 03 - Exploring the GSS"
 output: html_document
+author: Abby Englebert
 ---
 
 ```{r include = FALSE}
